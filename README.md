@@ -7,9 +7,9 @@ https://volgagrandtour.github.io/
 
 ### 🗺 Карта маршрута
 
-[https://volgagrandtour.github.io/map/](map/)
+[https://volgagrandtour.github.io/map/](/map/)
 
-[![](/images/map-preview-v2.png)](map/)
+[![](/images/map-preview-v2.png)](/map/)
 
 
 ### Table of content
