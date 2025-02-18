@@ -133,7 +133,7 @@ https://volgagrandtour.github.io/
 
 Путь сложный с грейдером.
 
-[![](imgs/a0/map.jpg){:class="map-piece"}](map/?minlat=57.095777&minlon=32.469663&maxlat=57.265805&maxlon=33.113831){:target="_blank"}
+[![](images/segments-details/a0/map.jpg){:class="map-piece"}](map/?minlat=57.095777&minlon=32.469663&maxlat=57.265805&maxlon=33.113831){:target="_blank"}
 
 ROUTE
 
@@ -171,7 +171,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/a1/map.jpg){:class="map-piece"}](map/?minlat=56.978122&minlon=33.102927&maxlat=57.156418&maxlon=34.960856){:target="_blank"}
+[![](images/segments-details/a1/map.jpg){:class="map-piece"}](map/?minlat=56.978122&minlon=33.102927&maxlat=57.156418&maxlon=34.960856){:target="_blank"}
 
 ROUTE
 
@@ -212,7 +212,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/a2/map.jpg){:class="map-piece"}](map/?minlat=56.844166&minlon=34.960314&maxlat=57.040862&maxlon=35.911134){:target="_blank"}
+[![](images/segments-details/a2/map.jpg){:class="map-piece"}](map/?minlat=56.844166&minlon=34.960314&maxlat=57.040862&maxlon=35.911134){:target="_blank"}
 
 ROUTE
 
@@ -247,7 +247,7 @@ ROUTE
 
 ## 🧭 A3. Тверь - Конаково [72 км.] {#a3}
 
-[![](imgs/a3/map.jpg){:class="map-piece"}](map/?minlat=56.700907&minlon=35.909769&maxlat=56.867433&maxlon=36.712732){:target="_blank"}
+[![](images/segments-details/a3/map.jpg){:class="map-piece"}](map/?minlat=56.700907&minlon=35.909769&maxlat=56.867433&maxlon=36.712732){:target="_blank"}
 
 Веломаршрут сочетает в себе живописные лесные тропы, проселочные дороги и участки с асфальтовым покрытием.  
 Путешествие проходит через малонаселенные места, создавая атмосферу уединения и близости к природе.
@@ -310,7 +310,7 @@ https://www.youtube.com/watch?v=nYkXQu1cmPc
 
 ## 🧭 B1. Конаково - Дубна [29 км.] {#b1}
 
-[![](imgs/b1/map.jpg){:class="map-piece"}](map/?minlat=56.661083&minlon=36.73272&maxlat=56.713711&maxlon=37.132679){:target="_blank"}
+[![](images/segments-details/b1/map.jpg){:class="map-piece"}](map/?minlat=56.661083&minlon=36.73272&maxlat=56.713711&maxlon=37.132679){:target="_blank"}
 
 Этот маршрут является частью масштабного проекта «Вело1», направленного на создание велосипедной трассы между Москвой и Санкт-Петербургом.
 
@@ -376,7 +376,7 @@ https://www.youtube.com/watch?v=nYkXQu1cmPc
 
 ROUTE
 
-[![](imgs/b2/map.jpg){:class="map-piece"}](map/?minlat=56.714427&minlon=37.118807&maxlat=56.874514&maxlon=37.376142){:target="_blank"}
+[![](images/segments-details/b2/map.jpg){:class="map-piece"}](map/?minlat=56.714427&minlon=37.118807&maxlat=56.874514&maxlon=37.376142){:target="_blank"}
 
 ROUTE
 
@@ -410,7 +410,7 @@ ROUTE
 
 Сложный участок рекомендуется проехать на пригородном поезде или поезде дальнего следования.
 
-[![](imgs/b3/map.jpg){:class="map-piece"}](map/?minlat=56.807963&minlon=37.366923&maxlat=57.241692&maxlon=37.993584){:target="_blank"}
+[![](images/segments-details/b3/map.jpg){:class="map-piece"}](map/?minlat=56.807963&minlon=37.366923&maxlat=57.241692&maxlon=37.993584){:target="_blank"}
 
 ROUTE
 
@@ -448,7 +448,7 @@ ROUTE
 
 Проходит по дороге со средним движением пересекющей границу Тверской и Ярославской области.
 
-[![](imgs/c1/map.jpg){:class="map-piece"}](map/?minlat=57.230447&minlon=37.854467&maxlat=57.530675&maxlon=38.372115){:target="_blank"}
+[![](images/segments-details/c1/map.jpg){:class="map-piece"}](map/?minlat=57.230447&minlon=37.854467&maxlat=57.530675&maxlon=38.372115){:target="_blank"}
 
 ROUTE
 
@@ -489,7 +489,7 @@ ROUTE
 
 По пути есть несколько мест на берегу для ночевки.
 
-[![](imgs/c2/map.jpg){:class="map-piece"}](map/?minlat=57.522378&minlon=38.255324&maxlat=57.786019&maxlon=38.457327){:target="_blank"}
+[![](images/segments-details/c2/map.jpg){:class="map-piece"}](map/?minlat=57.522378&minlon=38.255324&maxlat=57.786019&maxlon=38.457327){:target="_blank"}
 
 ROUTE
 
@@ -530,7 +530,7 @@ ROUTE
 
 Короткий маршрут без машин
 
-[![](imgs/c3/map.jpg){:class="map-piece"}](map/?minlat=57.785788&minlon=38.409533&maxlat=57.988331&maxlon=38.467353){:target="_blank"}
+[![](images/segments-details/c3/map.jpg){:class="map-piece"}](map/?minlat=57.785788&minlon=38.409533&maxlat=57.988331&maxlon=38.467353){:target="_blank"}
 
 ROUTE
 
@@ -570,7 +570,7 @@ ROUTE
 
 Тяжелая дорога с большим трафиком.
 
-[![](imgs/c4/map.jpg)](map/?minlat=57.986387&minlon=38.444356&maxlat=58.0607&maxlon=38.853129){:target="_blank"}
+[![](images/segments-details/c4/map.jpg)](map/?minlat=57.986387&minlon=38.444356&maxlat=58.0607&maxlon=38.853129){:target="_blank"}
 
 ROUTE
 
@@ -615,7 +615,7 @@ ROUTE
 
 Любимое место И. Левитана на Волге.
 
-[![](imgs/c5/map.jpg){:class="map-piece"}](map/?minlat=57.88056&minlon=38.852094&maxlat=58.062094&maxlon=39.540075){:target="_blank"}
+[![](images/segments-details/c5/map.jpg){:class="map-piece"}](map/?minlat=57.88056&minlon=38.852094&maxlat=58.062094&maxlon=39.540075){:target="_blank"}
 
 ROUTE
 
@@ -654,7 +654,7 @@ ROUTE
 
 Красивый маршрут без автомобилей с заездом в Тутаев красивый город и монастырю Толга около Ярославля.
 
-[![](imgs/c6/map.jpg){:class="map-piece"}](map/?minlat=57.62164&minlon=39.53597&maxlat=57.884064&maxlon=39.910125){:target="_blank"}
+[![](images/segments-details/c6/map.jpg){:class="map-piece"}](map/?minlat=57.62164&minlon=39.53597&maxlat=57.884064&maxlon=39.910125){:target="_blank"}
 
 ROUTE
 
@@ -700,7 +700,7 @@ ROUTE
 
 Или также проехать до Нерехты, а оттуда по приятной дороге без машин.
 
-[![](imgs/d1/map.jpg){:class="map-piece"}](map/?minlat=57.535088&minlon=39.882604&maxlat=57.767657&maxlon=40.951155){:target="_blank"}
+[![](images/segments-details/d1/map.jpg){:class="map-piece"}](map/?minlat=57.535088&minlon=39.882604&maxlat=57.767657&maxlon=40.951155){:target="_blank"}
 
 ROUTE
 
@@ -779,7 +779,7 @@ ROUTE
 
 Спокойная и приятная дорога.
 
-[![](imgs/d2/map.jpg){:class="map-piece"}](map/?minlat=57.494946&minlon=40.926262&maxlat=57.767661&maxlon=41.2374){:target="_blank"}
+[![](images/segments-details/d2/map.jpg){:class="map-piece"}](map/?minlat=57.494946&minlon=40.926262&maxlat=57.767661&maxlon=41.2374){:target="_blank"}
 
 ROUTE
 
@@ -818,7 +818,7 @@ ROUTE
 
 ROUTE
 
-[![](imgs/d3/map.jpg){:class="map-piece"}](map/?minlat=57.440811&minlon=41.224742&maxlat=57.486784&maxlon=41.513329){:target="_blank"}
+[![](images/segments-details/d3/map.jpg){:class="map-piece"}](map/?minlat=57.440811&minlon=41.224742&maxlat=57.486784&maxlon=41.513329){:target="_blank"}
 
 ROUTE
 
