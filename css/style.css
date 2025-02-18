@@ -1,0 +1,14 @@
+
+
+.wide-image{
+    width: 600px;
+}
+
+
+.map-piece{
+    border-radius: .75rem;
+    box-shadow: 0 1rem 1rem rgba(0, 0, 0, 0.3);
+    object-fit: cover;
+    transition: filter 0.3s ease;
+    margin: 1rem 0 2rem;
+}
